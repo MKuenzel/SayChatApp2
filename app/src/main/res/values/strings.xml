@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Say Chat App</string>
+    <string name="nachname">Nachname</string>
+    <string name="vorname">Vorname</string>
+    <string name="passwort">Passwort</string>
+    <string name="emailadresse">Emailadresse</string>
+    <string name="registrieren">Registrieren</string>
+    <string name="bereits_registriert">Bereits Registriert?</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+</resources>
